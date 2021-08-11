@@ -26,7 +26,7 @@ export class RequestTransformInterceptor<T>
       map((data) => ({
         statusCode,
         message: data.message,
-        data: data.result,
+        ...data,
       })),
     );
   }
