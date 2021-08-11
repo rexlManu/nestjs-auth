@@ -10,6 +10,10 @@ Just a boilerplate for my projects in the future
 - Password reset
 - Profile password change
 
+## Frontend
+
+You can find a frontend implementation in vue3 with tailwind [here](https://github.com/rexlManu/vue3-auth-frontend).
+
 ## Setup
 
 #### Env
